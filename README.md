@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GabberSingh-Abhi](https://github.com/GabberSingh-Abhi)
 
-- 💬 Ask me about **HTML,CSS,Javascript,Mongodb,Boostrap**
+- 💬 Ask me about **HTML,CSS,Javascript**
 
 - 📫 How to reach me **abhijeetkishore3@gmail.com**
 
